@@ -2,7 +2,7 @@
 title: Welcome to Jekyll!
 icon: fa-check
 order: 5
-hide: false
+hide: true
 ---
 
 <footer>
