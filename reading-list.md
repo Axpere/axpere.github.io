@@ -4,17 +4,18 @@ subtitle: Espazioan eta klima espaziala
 layout: "page"
 icon: fa-book
 order: 3
-hide: true
+hide: false
 ---
 
-Espazioan eta klima espazialean gomendatzen ditudan liburu zerrenda bat:
+Espazioan eta klima espazialean gomendatzen ditudan liburu eta link zerrenda bat:
 
 *Euskaraz:*
-1. df
+1. eraikitzen
 
 *Gaztelaniaz:*
-1. d
+1. eraikitzen
 
 *Ingeleses:*
+1. eraikitzen
 
 *link batzuek afiliatuak dira.*  
