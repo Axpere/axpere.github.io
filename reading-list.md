@@ -9,13 +9,8 @@ hide: false
 
 Espazioan eta klima espazialean gomendatzen ditudan liburu eta link zerrenda bat:
 
-*Euskaraz:*
-1. eraikitzen
 
-*Gaztelaniaz:*
-1. eraikitzen
+*Bideoak:*
+1. [Solar Flares & Coronal Mass Ejections - Kurzgesagt - In a Nutshell](https://www.youtube.com/watch?v=oHHSSJDJ4oo) Azpitituluekin.
 
-*Ingeleses:*
-1. eraikitzen
-
-*link batzuek afiliatuak dira.*  
+<!-- *link batzuek afiliatuak dira.* -->  
