@@ -2,9 +2,9 @@
 title: Welcome to Jekyll!
 icon: fa-check
 order: 5
-hide: true
+hide: false
 ---
 
 <footer>
-  <a href="#intro" class="button scrolly">Gora igo</a>
+  <a href="#intro" class="button">Gora igo</a>
 </footer>
