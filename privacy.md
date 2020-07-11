@@ -20,3 +20,6 @@ Kontuan izan, Google-ren edozein produktuak, gu baino informazio askoz gehiago j
 
 ### Formspree
 Web horrialde honetako imprimakietan Formspree erabiltzen da. Ez badezu nahi zure mezua eta datuak Formspree korreo zerbitzutik pasatzea, zuzenean [bidali korreo bat](mailto:info@espazioa.eu) edo ez erabili web horriko imprimakirik.
+
+### Korreo elektroniko zerbitzuak
+Gmail erabiltzen degu korreoak ikusteko. Beraiek ere ikus dezakete zure helbidea eta informazioa.
