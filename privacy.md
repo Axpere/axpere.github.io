@@ -23,3 +23,6 @@ Web horrialde honetako imprimakietan Formspree erabiltzen da. Ez badezu nahi zur
 
 ### Korreo elektroniko zerbitzuak
 ~~Migadu.com~~ Zoho.com eta Gmail erabiltzen degu korreoak ikusteko. Beraiek ere ikus dezakete zure helbidea eta informazioa.
+
+### Mailchimp pop-up harpidetza
+Mailchimp pop-up-ek zure korreoa jasoko du, harpidetzen bazera. Korreo zerbitzutik zuzenean harpidetzen bazera, zure informazioa ez da Mailchimp-etik pasako.
