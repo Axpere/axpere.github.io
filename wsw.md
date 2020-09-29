@@ -19,7 +19,7 @@ Ekitaldi asko organizatzen dira urtero [^2]. Oraingoz ekitaldirik ez dago Euskad
 
 Ekitaldi mota bat egin nahi badezu nirekin, [bidali korreo bat](mailto:info@espazioa.eu) edota erantzun ikesta honi.
 
-Jakin nahi badezu ze ekitaldi egingo dudan (zeren egin, egingo det zerbait), [bidali korreo bat](mailto:info@espazioa.eu) posta-zerrendan sartzea eskatuz.
+Jakin nahi badezu ze ekitaldi egingo dudan (zeren egin, egingo det zerbait), [bidali korreo bat](mailto:info@espazioa.eu) posta-zerrendan sartzea eskatuz edo harpidetu mailchimp-eko posta-zerrendan.
 
 [^1]: [https://www.worldspaceweek.org/about/]([https://www.worldspaceweek.org/about/)
 [^2]: [https://www.worldspaceweek.org/events/event-map/](https://www.worldspaceweek.org/events/event-map/)
