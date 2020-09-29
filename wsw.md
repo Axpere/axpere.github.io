@@ -1,7 +1,7 @@
 ---
 title: Munduko espazio astea (WSW)
 layout: page
-icon: user-astronaut
+icon: fa-user-astronaut
 permalink: /wsw
 order: 4
 hide: false
