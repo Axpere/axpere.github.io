@@ -4,7 +4,7 @@ layout: page
 icon: fa-unlink
 permalink: /wsw
 order: 4
-hide: true
+hide: false
 ---
 
 ## Urriaren 4tik 10era
