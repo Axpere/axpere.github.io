@@ -1,5 +1,5 @@
 ---
-title: Munduko espazio astea (WSW)
+title: Munduko espazio astea
 layout: page
 icon: fa-user-astronaut
 permalink: /wsw
@@ -9,7 +9,7 @@ hide: false
 
 ## Urriaren 4tik 10era
 
-Nazio Bautuak 1999 urtean deklaratu zuen urtero, urriaren 4tik 10era munduko espazio astea edo World Space Week ospatuko zela bi gertaera ospatzeko [^1]:
+Nazio Bautuak 1999 urtean deklaratu zuen urtero, urriaren 4tik 10era munduko espazio astea edo World Space Week (WSW) ospatuko zela bi gertaera ospatzeko [^1]:
 * Urriaren 4a, 1957: Sputnik 1, gizakiak eginiko lehen satelitearen jaurtiketa.
 * urriaren 10, 1967: Kanpo-espazio Itunaren sinadura.
 
