@@ -21,5 +21,7 @@ Ekitaldi mota bat egin nahi badezu nirekin, [bidali korreo bat](mailto:info@espa
 
 Jakin nahi badezu ze ekitaldi egingo dudan (zeren egin, egingo det zerbait), [bidali korreo bat](mailto:info@espazioa.eu) posta-zerrendan sartzea eskatuz edo harpidetu mailchimp-eko posta-zerrendan.
 
+Oraingoz egingo den ekitaldia, SpaceX-ren Starlink sateliteen jaurtiketa zuzenean komentatzea izango da: <https://www.twitch.tv/espazioa>
+
 [^1]: [https://www.worldspaceweek.org/about/]([https://www.worldspaceweek.org/about/)
 [^2]: [https://www.worldspaceweek.org/events/event-map/](https://www.worldspaceweek.org/events/event-map/)
