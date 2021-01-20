@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Leku hau ingurugiro espazialaren eraginak aztertuko ditugu.
   Informazioa eta zerbitzuak.
 author: Espazioa.eu
-email: info@espazioa.eu
+email: info
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
